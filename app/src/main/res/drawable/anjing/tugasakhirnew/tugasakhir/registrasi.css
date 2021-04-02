@@ -1,0 +1,30 @@
+.container{
+	width: 800px;
+	height: 600px;
+	box-shadow : 0 3px 30px rgba(0,0,0, 0.3);
+	padding: 30px;
+	margin-top: 60px;
+	
+	background: #FFFFFF;
+}
+
+
+.text{
+	text-align: center;
+}
+
+body{
+	background: url("assets/img/slider/banner1.jpg");
+	height: 100%;
+}
+
+.textarea {
+  color: #000;
+  border-radius: 0;
+  /*padding-right: 70px;*/
+  padding-bottom: 150px;
+  padding-top: 20px;
+  padding-left: 7px;
+  height: 40px;
+  width: 710px;
+}
